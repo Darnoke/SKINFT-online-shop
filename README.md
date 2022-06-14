@@ -1,3 +1,5 @@
+Shopping Website - university project built using Express.js, MongoDB, EJS. 
+
 ## TODO:
 
 - [x] node.js Express server basis
